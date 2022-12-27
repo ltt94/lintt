@@ -28,7 +28,7 @@ requests==2.23.0
 scikit-learn==0.22.2.post1
 scipy==1.4.1
 selenium==3.141.0
-setuptools==40.8.0
+setuptools==65.5.1
 six==1.14.0
 urllib3==1.25.8
 wcwidth==0.1.8
